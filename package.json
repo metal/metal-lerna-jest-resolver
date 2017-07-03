@@ -1,0 +1,7 @@
+{
+    "name": "metal-lerna-jest-resolver",
+    "version": "1.0.0",
+    "dependencies": {
+        "resolve": "^1.3.3"
+    }
+}
